@@ -1,0 +1,20 @@
+{
+  "name": "teste3",
+  "version": "1.0.0",
+  "description": "Teste 3 do desafio técnico da Processo Rápido",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Ivo Cardoso de Aquino",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "pdf-lib": "^1.16.0",
+    "pdf-merger-js": "^3.2.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
